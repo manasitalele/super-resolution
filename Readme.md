@@ -9,7 +9,7 @@
 * **JDK 1.6** or higher.
 * **WEKA** Toolbar.
 
-### Flow Diagram
+### Work Flow
 **`Training Image Pairs:`**
 The Image pair used in the training phase consists of High Resolution image and
 Low Resolution image. The LR image is the interpolated version of the same HR
@@ -22,5 +22,6 @@ feature extraction module.
 **`GPR Modeling:`**
 The pattern relation is derived using the GPR modeling. This relationship is formed from the feature subset derived using feature extraction algorithm and further applied on the feature set of the input interpolated low resolution image
 
+#### Flow Diagram
 ![Flowchart](superresolution/FlowChart.png)
 

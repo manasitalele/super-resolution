@@ -5,9 +5,9 @@
 
 ### Software Required
 
-**NET BEANS** 6.9.1 or higher.
-**JDK 1.6** or higher.
-**WEKA** Toolbar.
+* **NET BEANS** 6.9.1 or higher.
+* **JDK 1.6** or higher.
+* **WEKA** Toolbar.
 
 ### Flow Diagram
 
